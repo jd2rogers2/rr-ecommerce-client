@@ -1,15 +1,15 @@
-server side first
-go to github link
-clone and cd into that directory
-`bundle install`
-`rake db:migrate`
-`rake db:seed`
-`bundle exec rails s -p 3001`
+server side first  
+go to https://github.com/jd2rogers2/rr-ecommerce-server  
+clone and cd into that directory  
+`bundle install`  
+`rake db:migrate`  
+`rake db:seed`  
+`bundle exec rails s -p 3001`  
 
-now client (this repo)
-clone this and cd into the repo
-`npm install`
-`npm start`
+now client (this repo)  
+clone this and cd into the repo  
+`npm install`  
+`npm start`  
 
 
 
